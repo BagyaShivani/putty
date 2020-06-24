@@ -75,7 +75,7 @@ if(option==='create')
 
 else if( option==='push')
 {   
-   simpleGitPromise.cwd('C:/Users/ca_user1/Desktop/display')
+   simpleGitPromise.cwd('/home/rajprabha_shanthakumar/putty')
    simpleGitPromise.init();
 
 
